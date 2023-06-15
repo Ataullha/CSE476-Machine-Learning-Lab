@@ -24,3 +24,11 @@ pip install seaborn
 
 pip install nltk
 ```
+
+<!---
+## Author
+
+- **Full Name**: Md Ataullha Saim
+- **Email**: ataullha81@student.sust.edu
+- **GitHub**: [Md Ataullha](https://github.com/Ataullha)
+-->
