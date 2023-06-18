@@ -14,15 +14,16 @@
  
 ## SETUP
 
-```python
-pip install scikit-learn
+```py
 
-pip install pandas
-pip install numpy
-pip install matplotlib
-pip install seaborn
+!pip install scikit-learn
 
-pip install nltk
+!pip install pandas
+!pip install numpy
+!pip install matplotlib
+!pip install seaborn
+
+!pip install nltk
 ```
 
 <!---
